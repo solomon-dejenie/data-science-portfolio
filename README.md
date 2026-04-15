@@ -1,15 +1,15 @@
-# 🚀 Solomon Dejenie Molla — Data Science & Financial Engineering Portfolio
+# Solomon Dejenie Molla — Data Science & Financial Engineering Portfolio
 
 Welcome to my professional portfolio showcasing applied data science, financial analytics, and econometrics projects built using Python.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I am a Data Analyst with a strong foundation in financial engineering and econometrics. I specialize in transforming data into actionable insights through statistical modeling, quantitative analysis, and data visualization.
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 - Python (Pandas, NumPy, Statsmodels)
 - Data Analysis & Visualization
 - Financial Engineering & Portfolio Optimization
@@ -18,9 +18,9 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 📈 1. Portfolio Optimization & Efficient Frontier
+###  1. Portfolio Optimization & Efficient Frontier
 - Built using Modern Portfolio Theory (MPT)
 - Simulated portfolios to maximize Sharpe Ratio
 - Visualized Efficient Frontier for risk-return optimization  
@@ -28,7 +28,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 
 ---
 
-### 📊 2. Financial Data Analysis
+### 2. Financial Data Analysis
 - Performed time-series analysis on market data
 - Calculated returns, volatility, and correlations
 - Identified key financial trends  
@@ -36,7 +36,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 
 ---
 
-### 📉 3. Econometrics & Regression Analysis
+### 3. Econometrics & Regression Analysis
 - Built multiple regression models
 - Evaluated statistical significance (R², p-values)
 - Interpreted economic relationships  
@@ -44,7 +44,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 
 ---
 
-### 📊 4. Data Visualization Dashboard
+### 4. Data Visualization Dashboard
 - Designed interactive data dashboards
 - Created KPI-driven visualizations
 - Improved data storytelling for decision-making  
@@ -52,13 +52,13 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 
 ---
 
-## 🏅 Certifications
-- 🎓 Foundation of Financial Engineering — WorldQuant University  
+##  Certifications
+-  Foundation of Financial Engineering — WorldQuant University  
 📜 Certificate available in: `/assets/certificates/`
 
 🔗 (Add your Credly badge link here)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
