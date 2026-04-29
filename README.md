@@ -40,7 +40,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 - Built multiple regression models
 - Evaluated statistical significance (R², p-values)
 - Interpreted economic relationships  
-🔗 [View Project](./projects/project-3)
+🔗 [View Project](./projects/econometrics-regression-analysis)
 
 ---
 
