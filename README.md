@@ -73,6 +73,9 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 🏅 View Credly Badge
 </a>
 ---
-
+### Certifications
+<a href="https://www.credly.com/badges/0255460d-39cd-4577-9716-aaca8fd392f2/public_url" target="_blank" rel="noopener noreferrer">
+🏅 View Credly Badge
+</a>
 ## Repository Structure
 
