@@ -16,10 +16,9 @@ This folder contains certifications that validate my expertise in data science a
 ---
 
 ## 🔗 Credential Verification
-(Add your Credly badge link here)
+***Credly View:** ( https://www.credly.com/badges/0255460d-39cd-4577-9716-aaca8fd392f2/public_url)
 
-Example:
-https://www.credly.com/your-badge-link
+
 
 ---
 
