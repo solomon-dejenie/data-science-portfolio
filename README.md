@@ -48,7 +48,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 - Designed interactive data dashboards
 - Created KPI-driven visualizations
 - Improved data storytelling for decision-making  
-🔗 [View Project](./projects/project-4)
+🔗 [View Project](./projects/data-visualization-dashboard)
 
 ---
 
