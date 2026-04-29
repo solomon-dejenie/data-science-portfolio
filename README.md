@@ -32,7 +32,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 - Performed time-series analysis on market data
 - Calculated returns, volatility, and correlations
 - Identified key financial trends  
-🔗 [View Project](./projects/project-2)
+🔗 [View Project](./projects/financial-data-analysis-python)
 
 ---
 
