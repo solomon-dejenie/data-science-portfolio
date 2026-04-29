@@ -24,7 +24,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 - Built using Modern Portfolio Theory (MPT)
 - Simulated portfolios to maximize Sharpe Ratio
 - Visualized Efficient Frontier for risk-return optimization  
-🔗 🔗 [View Project](./projects/efficient-frontier)
+🔗 🔗 [View Project](./projects/portfolio-optimization-efficient-frontier)
 
 ---
 
