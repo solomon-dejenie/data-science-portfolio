@@ -56,7 +56,7 @@ I am a Data Analyst with a strong foundation in financial engineering and econom
 -  Foundation of Financial Engineering — WorldQuant University  
 📜 Certificate available in: `/assets/certificates/`
 
-🔗 (Add your Credly badge link here)
+🔗View Credly Badge ([Add your Credly badge link here](https://www.credly.com/badges/0255460d-39cd-4577-9716-aaca8fd392f2/public_url))
 
 ---
 
